@@ -14,6 +14,7 @@ import arraylist.Ejercicio08Frecuencia;
 import arraylist.Ejercicio09OrdenarSeparar;
 import arraylist.Ejercicio10Partidos;
 import matrices.Ejercicio11Buscar;
+import matrices.Ejercicio12DiagonalSecundaria;
 import util.Ejercicio;
 import util.LectorConsola;
 
@@ -49,6 +50,8 @@ public class Main {
         ejercicios.add(new Ejercicio09OrdenarSeparar());
         ejercicios.add(new Ejercicio10Partidos());
         ejercicios.add(new Ejercicio11Buscar());
+        ejercicios.add(new Ejercicio12DiagonalSecundaria());
+        
         
     
 
