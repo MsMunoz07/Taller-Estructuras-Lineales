@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import arreglos.Ejercicio01Primos;
 import arreglos.Ejercicio02Pares;
+import arreglos.Ejercicio03Factoriales;
 import util.Ejercicio;
 import util.LectorConsola;
 
@@ -30,6 +31,8 @@ public class Main {
 
         ejercicios.add(new Ejercicio01Primos());
         ejercicios.add(new Ejercicio02Pares());
+        ejercicios.add(new Ejercicio03Factoriales());
+        
 
         return ejercicios;
     }
