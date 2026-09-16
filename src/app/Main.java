@@ -7,6 +7,7 @@ import arreglos.Ejercicio02Pares;
 import arreglos.Ejercicio03Factoriales;
 import arreglos.Ejercicio04MinMax;
 import arreglos.Ejercicio05Invertidos;
+import arraylist.Ejercicio06Suma;
 import util.Ejercicio;
 import util.LectorConsola;
 
@@ -36,7 +37,9 @@ public class Main {
         ejercicios.add(new Ejercicio03Factoriales());
         ejercicios.add(new Ejercicio04MinMax());
         ejercicios.add(new Ejercicio05Invertidos());
+        ejercicios.add(new Ejercicio06Suma()); 
         
+
 
 
 
