@@ -3,6 +3,7 @@ package app;
 import java.util.ArrayList;
 import java.util.List;
 import arreglos.Ejercicio01Primos;
+import arreglos.Ejercicio02Pares;
 import util.Ejercicio;
 import util.LectorConsola;
 
@@ -28,6 +29,7 @@ public class Main {
         List<Ejercicio> ejercicios = new ArrayList<>();
 
         ejercicios.add(new Ejercicio01Primos());
+        ejercicios.add(new Ejercicio02Pares());
 
         return ejercicios;
     }
