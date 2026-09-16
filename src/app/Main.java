@@ -1,8 +1,63 @@
 package app;
 
+import java.util.ArrayList;
+import java.util.List;
+import util.Ejercicio;
+import util.LectorConsola;
+
+/**
+ * Menú principal del taller. Permite ejecutar cualquiera de los
+ * ejercicios registrados en la lista, sin necesidad de cambiar de
+ * clase principal.
+ */
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Taller de Estructuras Lineales");
+        List<Ejercicio> ejercicios = registrarEjercicios();
+        mostrarMenu(ejercicios);
+    }
+
+    /**
+     * Aquí se registran todos los ejercicios del taller.
+     * A medida que resolvamos cada uno, se agrega una línea como:
+     *     ejercicios.add(new Ejercicio01Primos());
+     */
+    private static List<Ejercicio> registrarEjercicios() {
+        List<Ejercicio> ejercicios = new ArrayList<>();
+
+        // ejercicios.add(new Ejercicio01Primos());
+        // ejercicios.add(new Ejercicio02Pares());
+        // ... se irán agregando aquí
+
+        return ejercicios;
+    }
+
+    private static void mostrarMenu(List<Ejercicio> ejercicios) {
+        int opcion;
+        do {
+            System.out.println();
+            System.out.println("=== Taller de Estructuras Lineales ===");
+
+            if (ejercicios.isEmpty()) {
+                System.out.println("(Todavía no hay ejercicios registrados)");
+            }
+
+            for (int i = 0; i < ejercicios.size(); i++) {
+                System.out.println((i + 1) + ". " + ejercicios.get(i).getTitulo());
+            }
+            System.out.println("0. Salir");
+
+            opcion = LectorConsola.leerEntero("Selecciona un ejercicio: ");
+
+            if (opcion >= 1 && opcion <= ejercicios.size()) {
+                System.out.println();
+                ejercicios.get(opcion - 1).ejecutar();
+            } else if (opcion != 0) {
+                System.out.println("Opción inválida, intenta de nuevo.");
+            }
+
+        } while (opcion != 0);
+
+        System.out.println("¡Hasta pronto!");
     }
 }
