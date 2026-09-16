@@ -11,6 +11,7 @@ import arraylist.Ejercicio06Suma;
 import arraylist.Ejercicio07Insertar;
 import arraylist.Ejercicio08Frecuencia;
 import arraylist.Ejercicio09OrdenarSeparar;
+import arraylist.Ejercicio10Partidos;
 import util.Ejercicio;
 import util.LectorConsola;
 
@@ -44,7 +45,12 @@ public class Main {
         ejercicios.add(new Ejercicio07Insertar());
         ejercicios.add(new Ejercicio08Frecuencia());
         ejercicios.add(new Ejercicio09OrdenarSeparar());
+        ejercicios.add(new Ejercicio10Partidos());
         
+    
+
+
+
         
 
 

@@ -1,0 +1,200 @@
+Celta Vigo::Almeria::2::2
+Villarreal::Mallorca::4::3
+Osasuna::Mallorca::3::2
+Granada::Valencia::0::4
+Real Betis::Almeria::2::3
+Barcelona::Girona::0::4
+Granada::Real Madrid::0::5
+Las Palmas::Valencia::1::3
+Rayo Vallecano::Real Betis::4::5
+Celta Vigo::Rayo Vallecano::4::3
+Almeria::Granada::3::2
+Almeria::Real Betis::4::5
+Valencia::Cadiz::0::1
+Barcelona::Athletic Club::4::1
+Atletico Madrid::Real Betis::1::2
+Barcelona::Girona::5::3
+Celta Vigo::Rayo Vallecano::2::4
+Las Palmas::Sevilla::1::5
+Barcelona::Athletic Club::1::3
+Almeria::Real Sociedad::2::4
+Athletic Club::Real Madrid::2::0
+Granada::Osasuna::2::1
+Valencia::Almeria::3::4
+Real Madrid::Barcelona::2::3
+Las Palmas::Rayo Vallecano::3::1
+Alaves::Real Sociedad::1::4
+Almeria::Las Palmas::0::4
+Almeria::Real Sociedad::2::5
+Rayo Vallecano::Las Palmas::5::2
+Real Madrid::Girona::0::0
+Las Palmas::Valencia::0::1
+Atletico Madrid::Celta Vigo::2::1
+Granada::Barcelona::2::2
+Valencia::Sevilla::1::1
+Rayo Vallecano::Real Betis::5::4
+Alaves::Las Palmas::4::4
+Osasuna::Atletico Madrid::2::0
+Granada::Girona::1::4
+Rayo Vallecano::Real Betis::4::3
+Rayo Vallecano::Valencia::1::0
+Rayo Vallecano::Getafe::1::3
+Rayo Vallecano::Almeria::1::0
+Real Sociedad::Sevilla::1::3
+Barcelona::Las Palmas::0::3
+Sevilla::Real Madrid::5::1
+Mallorca::Rayo Vallecano::1::5
+Celta Vigo::Real Betis::0::5
+Real Sociedad::Cadiz::2::5
+Almeria::Granada::0::0
+Girona::Villarreal::3::2
+Granada::Celta Vigo::2::5
+Atletico Madrid::Real Betis::3::4
+Osasuna::Alaves::2::3
+Las Palmas::Villarreal::2::5
+Alaves::Almeria::0::5
+Barcelona::Las Palmas::5::4
+Osasuna::Alaves::3::2
+Athletic Club::Osasuna::3::2
+Real Madrid::Girona::4::4
+Granada::Athletic Club::4::5
+Granada::Mallorca::5::3
+Valencia::Real Madrid::1::2
+Atletico Madrid::Rayo Vallecano::2::5
+Atletico Madrid::Cadiz::1::4
+Granada::Alaves::5::1
+Mallorca::Rayo Vallecano::0::2
+Athletic Club::Real Betis::5::5
+Las Palmas::Atletico Madrid::2::1
+Barcelona::Valencia::3::2
+Valencia::Atletico Madrid::1::2
+Real Madrid::Sevilla::3::4
+Athletic Club::Atletico Madrid::1::4
+Celta Vigo::Alaves::1::5
+Girona::Athletic Club::2::3
+Real Betis::Atletico Madrid::4::1
+Getafe::Osasuna::5::4
+Getafe::Alaves::2::5
+Osasuna::Valencia::1::4
+Osasuna::Getafe::2::1
+Osasuna::Celta Vigo::3::0
+Atletico Madrid::Barcelona::5::2
+Athletic Club::Alaves::3::4
+Real Sociedad::Valencia::3::3
+Real Betis::Alaves::1::2
+Osasuna::Las Palmas::0::1
+Celta Vigo::Granada::1::4
+Celta Vigo::Valencia::3::2
+Cadiz::Sevilla::0::4
+Cadiz::Villarreal::2::2
+Almeria::Sevilla::1::0
+Granada::Barcelona::1::0
+Getafe::Mallorca::2::4
+Villarreal::Osasuna::4::4
+Real Madrid::Alaves::2::5
+Almeria::Real Betis::1::1
+Real Betis::Athletic Club::5::3
+Athletic Club::Barcelona::2::3
+Barcelona::Almeria::5::5
+Mallorca::Girona::3::4
+Athletic Club::Getafe::5::2
+Osasuna::Rayo Vallecano::5::1
+Rayo Vallecano::Mallorca::4::2
+Osasuna::Mallorca::3::1
+Sevilla::Atletico Madrid::0::5
+Getafe::Real Madrid::2::0
+Barcelona::Celta Vigo::0::4
+Sevilla::Real Betis::2::0
+Getafe::Barcelona::3::4
+Sevilla::Granada::5::2
+Mallorca::Girona::0::3
+Osasuna::Celta Vigo::0::5
+Villarreal::Rayo Vallecano::0::5
+Las Palmas::Rayo Vallecano::5::4
+Barcelona::Alaves::4::3
+Girona::Alaves::3::3
+Las Palmas::Rayo Vallecano::0::4
+Real Betis::Getafe::2::4
+Athletic Club::Cadiz::0::4
+Athletic Club::Girona::3::3
+Sevilla::Valencia::2::1
+Mallorca::Rayo Vallecano::4::4
+Sevilla::Granada::4::1
+Real Madrid::Valencia::1::2
+Girona::Celta Vigo::4::5
+Sevilla::Real Betis::4::3
+Cadiz::Villarreal::0::1
+Real Sociedad::Atletico Madrid::4::1
+Almeria::Real Madrid::5::0
+Getafe::Celta Vigo::4::4
+Mallorca::Athletic Club::5::3
+Mallorca::Valencia::2::4
+Real Sociedad::Alaves::4::1
+Almeria::Getafe::2::1
+Granada::Las Palmas::4::2
+Osasuna::Almeria::4::1
+Atletico Madrid::Granada::3::3
+Rayo Vallecano::Real Sociedad::0::1
+Getafe::Sevilla::5::4
+Real Madrid::Almeria::4::5
+Real Madrid::Celta Vigo::1::3
+Rayo Vallecano::Atletico Madrid::5::1
+Getafe::Atletico Madrid::1::1
+Osasuna::Girona::2::0
+Almeria::Real Sociedad::4::4
+Real Madrid::Rayo Vallecano::5::3
+Real Betis::Real Madrid::0::4
+Sevilla::Real Sociedad::2::5
+Rayo Vallecano::Las Palmas::3::1
+Atletico Madrid::Barcelona::0::5
+Villarreal::Las Palmas::5::1
+Getafe::Mallorca::1::3
+Getafe::Valencia::1::1
+Atletico Madrid::Las Palmas::2::0
+Valencia::Getafe::2::0
+Granada::Cadiz::4::0
+Osasuna::Real Madrid::0::0
+Getafe::Osasuna::4::2
+Osasuna::Athletic Club::3::5
+Cadiz::Granada::2::2
+Real Betis::Rayo Vallecano::1::4
+Girona::Villarreal::1::5
+Cadiz::Real Madrid::0::1
+Celta Vigo::Osasuna::1::0
+Atletico Madrid::Girona::2::0
+Villarreal::Barcelona::1::1
+Villarreal::Almeria::5::0
+Getafe::Atletico Madrid::4::0
+Real Madrid::Celta Vigo::4::3
+Getafe::Atletico Madrid::5::3
+Villarreal::Alaves::0::0
+Rayo Vallecano::Real Betis::5::3
+Valencia::Rayo Vallecano::3::0
+Villarreal::Valencia::3::0
+Celta Vigo::Almeria::2::0
+Granada::Villarreal::3::3
+Alaves::Valencia::1::2
+Las Palmas::Osasuna::4::5
+Girona::Celta Vigo::4::5
+Osasuna::Celta Vigo::4::0
+Sevilla::Mallorca::5::3
+Osasuna::Valencia::4::4
+Getafe::Villarreal::1::2
+Cadiz::Atletico Madrid::2::0
+Cadiz::Celta Vigo::5::4
+Villarreal::Las Palmas::4::2
+Osasuna::Atletico Madrid::5::2
+Valencia::Rayo Vallecano::5::1
+Mallorca::Girona::4::4
+Mallorca::Girona::4::3
+Real Madrid::Mallorca::4::0
+Villarreal::Almeria::3::3
+Osasuna::Atletico Madrid::2::0
+Osasuna::Granada::5::0
+Villarreal::Barcelona::4::1
+Las Palmas::Osasuna::4::1
+Granada::Athletic Club::4::0
+Atletico Madrid::Real Sociedad::2::1
+Barcelona::Osasuna::4::1
+Osasuna::Villarreal::4::0
+Osasuna::Real Betis::0::3
