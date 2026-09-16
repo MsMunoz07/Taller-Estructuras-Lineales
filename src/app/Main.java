@@ -15,6 +15,7 @@ import arraylist.Ejercicio10Partidos;
 import matrices.Ejercicio11Buscar;
 import matrices.Ejercicio12DiagonalSecundaria;
 import matrices.Ejercicio13Simetrica;
+import matrices.Ejercicio14Transpuesta;
 import util.Ejercicio;
 import util.LectorConsola;
 
@@ -52,6 +53,8 @@ public class Main {
         ejercicios.add(new Ejercicio11Buscar());
         ejercicios.add(new Ejercicio12DiagonalSecundaria());
         ejercicios.add(new Ejercicio13Simetrica());
+        ejercicios.add(new Ejercicio14Transpuesta());
+        
 
         
     
