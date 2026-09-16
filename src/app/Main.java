@@ -2,8 +2,10 @@ package app;
 
 import java.util.ArrayList;
 import java.util.List;
+import arreglos.Ejercicio01Primos;
 import util.Ejercicio;
 import util.LectorConsola;
+
 
 /**
  * Menú principal del taller. Permite ejecutar cualquiera de los
@@ -20,14 +22,12 @@ public class Main {
     /**
      * Aquí se registran todos los ejercicios del taller.
      * A medida que resolvamos cada uno, se agrega una línea como:
-     *     ejercicios.add(new Ejercicio01Primos());
+     *     ejercicios.add(new Ejercicio02Pares());
      */
     private static List<Ejercicio> registrarEjercicios() {
         List<Ejercicio> ejercicios = new ArrayList<>();
 
-        // ejercicios.add(new Ejercicio01Primos());
-        // ejercicios.add(new Ejercicio02Pares());
-        // ... se irán agregando aquí
+        ejercicios.add(new Ejercicio01Primos());
 
         return ejercicios;
     }
