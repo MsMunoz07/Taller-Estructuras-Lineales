@@ -9,6 +9,7 @@ import arreglos.Ejercicio04MinMax;
 import arreglos.Ejercicio05Invertidos;
 import arraylist.Ejercicio06Suma;
 import arraylist.Ejercicio07Insertar;
+import arraylist.Ejercicio08Frecuencia;
 import util.Ejercicio;
 import util.LectorConsola;
 
@@ -40,7 +41,9 @@ public class Main {
         ejercicios.add(new Ejercicio05Invertidos());
         ejercicios.add(new Ejercicio06Suma());
         ejercicios.add(new Ejercicio07Insertar());
+        ejercicios.add(new Ejercicio08Frecuencia());
         
+
 
 
 
