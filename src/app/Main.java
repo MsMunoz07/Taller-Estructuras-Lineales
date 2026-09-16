@@ -7,7 +7,6 @@ import arreglos.Ejercicio02Pares;
 import arreglos.Ejercicio03Factoriales;
 import arreglos.Ejercicio04MinMax;
 import arreglos.Ejercicio05Invertidos;
-import matrices.Ejercicio11Buscar;
 import arraylist.Ejercicio06Suma;
 import arraylist.Ejercicio07Insertar;
 import arraylist.Ejercicio08Frecuencia;
@@ -15,6 +14,7 @@ import arraylist.Ejercicio09OrdenarSeparar;
 import arraylist.Ejercicio10Partidos;
 import matrices.Ejercicio11Buscar;
 import matrices.Ejercicio12DiagonalSecundaria;
+import matrices.Ejercicio13Simetrica;
 import util.Ejercicio;
 import util.LectorConsola;
 
@@ -51,7 +51,8 @@ public class Main {
         ejercicios.add(new Ejercicio10Partidos());
         ejercicios.add(new Ejercicio11Buscar());
         ejercicios.add(new Ejercicio12DiagonalSecundaria());
-        
+        ejercicios.add(new Ejercicio13Simetrica());
+
         
     
 
