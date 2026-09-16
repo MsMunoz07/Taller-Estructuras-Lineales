@@ -30,6 +30,8 @@ src/
 
 - JDK 17 25 o superior
 - Visual Studio Code con la extensión "Extension Pack for Java"
+- El archivo data/PartidoLiga.txt debe estar presente en la raíz del
+  proyecto (ya incluido en el repositorio) para que el Ejercicio 10 funcione
 
 ## Instrucciones de ejecución
 
@@ -45,7 +47,19 @@ src/
 |---|---|
 | 1 | Arreglo con los primeros 10 números primos |
 | 2 | Los 100 primeros números pares, en una línea y en 10 líneas |
-| ... | ... |
+| 3 | Factoriales de n números aleatorios |
+| 4 | Menor y mayor de 25 números aleatorios entre -50 y 50 |
+| 5 | Invertir dígitos de 20 números aleatorios |
+| 6 | Suma y promedio de números leídos hasta un centinela (ArrayList) |
+| 7 | ArrayList ordenado: insertar y borrar |
+| 8 | Frecuencia de números en un ArrayList |
+| 9 | Ordenar ascendente/descendente y separar pares/impares |
+| 10 | Partidos de fútbol: ganadores, empates y conteos |
+| 11 | Buscar un número en una matriz |
+| 12 | Suma de la diagonal secundaria |
+| 13 | Matriz simétrica y esquinas |
+| 14 | Transpuesta de una matriz |
+| 15 | Intercambiar primera y segunda fila |
 
 ## Autor
 
